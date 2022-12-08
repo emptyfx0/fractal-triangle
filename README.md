@@ -24,3 +24,5 @@ If one takes a point and applies each of the transformations dA, dB, and dC to i
 
 
 This method is also called the chaos game, and is an example of an iterated function system. You can start from any point outside or inside the triangle, and it would eventually form the Sierpinski Gasket with a few leftover points (if the starting point lies on the outline of the triangle, there are no leftover points). With pencil and paper, a brief outline is formed after placing approximately one hundred points, and detail begins to appear after a few hundred. 
+
+Chaos game example: https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle#/media/File:Tri%C3%A2ngulo_de_Sierpinski.gif
